@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre-8.0.372.7-hotspot"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/2417110/OneDrive - College Andre-Grasset/Grasset/Seanse3/Programmation Orientée Objet II/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/2417110/OneDrive - College Andre-Grasset/Grasset/Seanse3/Programmation Orientée Objet II/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/2417110/OneDrive - College Andre-Grasset/Grasset/Seanse3/Programmation Orientée Objet II/jcommon-1.0.8/jcommon-1.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/2417110/OneDrive - College Andre-Grasset/Grasset/Seanse3/Programmation Orientée Objet II/jcommon-1.0.8/jcommon-1.0.8-junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/2417110/OneDrive - College Andre-Grasset/Grasset/Seanse3/Programmation Orientée Objet II/jcommon-1.0.8/jcommon-xml-1.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
